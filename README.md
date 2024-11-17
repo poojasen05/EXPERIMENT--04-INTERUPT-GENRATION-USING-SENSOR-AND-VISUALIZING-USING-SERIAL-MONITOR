@@ -149,9 +149,14 @@ PUTCHAR_PROTOTYPE
  ![Screenshot 2024-09-25 112218](https://github.com/user-attachments/assets/c5bc266d-aa9a-43f4-86f8-454bd63218ef)
 
  
- ## Circuit board :
+
  
  
  
+
+
+
+
+
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
